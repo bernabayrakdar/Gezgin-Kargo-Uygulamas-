@@ -1,0 +1,24 @@
+Gidilecek sehirleri girin (ilk harfi buuyuk):
+Izmir
+Edirne
+Kocaeli-->Istanbul-->Tekirdag-->Kirklareli-->Edirne-->Kocaeli-->Yalova-->Bursa-->Balikesir-->Manisa-->Izmir-->
+Izmir-->Manisa-->Balikesir-->Bursa-->Yalova-->Kocaeli-->Edirne-->Kirklareli-->Tekirdag-->Istanbul-->Kocaeli-->
+Gidis donus arası uzaklik: 1772
+
+Kocaeli-->Istanbul-->Tekirdag-->Edirne-->Kocaeli-->Bursa-->Balikesir-->Izmir-->
+Izmir-->Balikesir-->Bursa-->Kocaeli-->Edirne-->Tekirdag-->Istanbul-->Kocaeli-->
+Gidis donus arası uzaklik: 1942
+
+Kocaeli-->Istanbul-->Tekirdag-->Kirklareli-->Edirne-->Edirne-->Kirklareli-->Tekirdag-->Canakkale-->Balikesir-->Manisa-->Izmir-->
+Izmir-->Manisa-->Balikesir-->Canakkale-->Tekirdag-->Kirklareli-->Edirne-->Edirne-->Kirklareli-->Tekirdag-->Istanbul-->Kocaeli-->
+Gidis donus arası uzaklik: 2338
+
+Kocaeli-->Istanbul-->Tekirdag-->Edirne-->Edirne-->Canakkale-->Balikesir-->Izmir-->
+Izmir-->Balikesir-->Canakkale-->Edirne-->Edirne-->Tekirdag-->Istanbul-->Kocaeli-->
+Gidis donus arası uzaklik: 2224
+
+Kocaeli-->Istanbul-->Tekirdag-->Kirklareli-->Edirne-->Kocaeli-->Yalova-->Bursa-->Balikesir-->Manisa-->Izmir-->
+Izmir-->Manisa-->Balikesir-->Bursa-->Yalova-->Kocaeli-->Edirne-->Kirklareli-->Tekirdag-->Istanbul-->Kocaeli-->
+Gidis donus arası uzaklik: 1772
+
+En kisa mesafe : 1772
